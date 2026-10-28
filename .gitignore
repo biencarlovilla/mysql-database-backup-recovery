@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code settings
+.vscode/
+
+# Temporary and log files
+*.log
+*.tmp
+*.swp
+*~
+
+# Environment files and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# MySQL temporary files
+*.pid
+*.sock
